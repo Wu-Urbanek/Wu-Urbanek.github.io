@@ -45,8 +45,11 @@ social:
 
   - title: github
     url: http://github.com/Wu-Urbanek
+  
+  - title: google-scholar
+    url: https://scholar.google.com/citations?hl=en&user=vHipXIQAAAAJ&view_op=list_works&gmla=AH70aAUvwLGqyGus8rrCnPBXEIOTvWDirOnMKezH9AkFeA7_T0sGfvnepLqW8MEGc8Zu83m3m9mVosr9OVkCV--E1JFz7ZlnnE9To7qYLrrTKtMKwd6O0wfCOMxNlfWz-rjCwzEk8AiO0GPcr3UB68A&iaan=Mei-Shin+Wu-Urbanek
 
-  - title: vocus
+  - title: blog
     url: https://vocus.cc/user/64dcdbc3fd89780001863a41
 
 # Postal address (add as many lines as necessary)
